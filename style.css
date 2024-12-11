@@ -1,0 +1,14 @@
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Ensure the map takes up the full width and height of the page */
+#map {
+    height: 100vh; /* Full height */
+    width: 100%;
+}
+
+/* Customize any other styles for your page here */
